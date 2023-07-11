@@ -2,9 +2,9 @@
 
 if($db){
 
-    $user="047286992_mebel";
-    $password="95Asamab";
-    $database="mudriy-yalta_mebel";
+    $user="root";
+    $password="";
+    $database="";
     $host="localhost";
 
 
